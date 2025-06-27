@@ -1,0 +1,12 @@
+com\usuarios_hw\MS\Usuarios\HW\dto\PedidoDto.class
+com\usuarios_hw\MS\Usuarios\HW\UsuariosHwApplication.class
+com\usuarios_hw\MS\Usuarios\HW\controller\UsuarioController.class
+com\usuarios_hw\MS\Usuarios\HW\dto\DetallePedidoDTO.class
+com\usuarios_hw\MS\Usuarios\HW\hateoas\model\UsuarioModel.class
+com\usuarios_hw\MS\Usuarios\HW\service\PedidoClient.class
+com\usuarios_hw\MS\Usuarios\HW\repository\UsuarioRepository.class
+com\usuarios_hw\MS\Usuarios\HW\service\UsuarioService.class
+com\usuarios_hw\MS\Usuarios\HW\dto\ProductoDTO.class
+com\usuarios_hw\MS\Usuarios\HW\controller\UsuarioControllerV2.class
+com\usuarios_hw\MS\Usuarios\HW\model\Usuario.class
+com\usuarios_hw\MS\Usuarios\HW\assemblers\UsuarioModelAssembler.class

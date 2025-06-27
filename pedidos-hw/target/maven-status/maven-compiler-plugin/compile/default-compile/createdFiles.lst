@@ -1,0 +1,14 @@
+com\pedidos\hw\model\DetallePedido.class
+com\pedidos\hw\repository\PedidoRepository.class
+com\pedidos\hw\controller\PedidoController.class
+com\pedidos\hw\service\DetallePedidoService.class
+com\pedidos\hw\repository\DetallePedidoRepository.class
+com\pedidos\hw\service\PedidoService.class
+com\pedidos\hw\service\ProductoClient.class
+com\pedidos\hw\service\UsuarioClient.class
+com\pedidos\hw\dto\UsuarioDto.class
+com\pedidos\hw\dto\DetallePedidoDTO.class
+com\pedidos\hw\dto\PedidoUsuarioDTO.class
+com\pedidos\hw\HwApplication.class
+com\pedidos\hw\dto\ProductoDTO.class
+com\pedidos\hw\model\Pedido.class

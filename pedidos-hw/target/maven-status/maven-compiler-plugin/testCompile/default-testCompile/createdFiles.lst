@@ -1,0 +1,4 @@
+com\pedidos\hw\repository\PedidoRepositoryUniTest.class
+com\pedidos\hw\HwApplicationTests.class
+com\pedidos\hw\controller\PedidoControllerIntegrationTest.class
+com\pedidos\hw\controller\PedidoControllerUnitTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hoppyware.productos.ProductoRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.161 s -- in com.hoppyware.productos.ProductoRepositoryTest
